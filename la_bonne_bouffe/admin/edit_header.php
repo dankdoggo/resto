@@ -13,7 +13,7 @@
 
 	<!-- Formulaire permettant d'éditer le header -->
 	<div class="col-sm-6 col-sm-push-3">
-		<h2 class="text-center text-info">Veuillez uploader des images ne dépassant pas 250px </h2>
+		<h4 class="text-center text-danger">Veuillez uploader des images ne dépassant pas 250px </h4>
 		<form method="post" enctype="multipart/form-data">
 			<label for="slider1">Première image</label><br>
 			<input type="file" name="slider1" id="slider1">
