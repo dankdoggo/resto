@@ -13,14 +13,14 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Mettre a jour Recette</title>
+		<title>Ajouté une recette</title>
 		 <!--Feuille de style Bootstrape-->
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	</head>
 	<body>
 		<main class="container">
 
-			<h1 class="text-center text-info">Mettre a jour la Recette</h1>
+			<h1 class="text-center text-info">Ajouté une Recette</h1>
 			
 			<div class="col-sm-6 col-sm-push-3">
 				<form method="post">
