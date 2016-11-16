@@ -13,9 +13,9 @@
 		<h1 class="text-center text-info">
 			<i class="fa fa-trash"></i> Supprimer un utilisateur
 		</h1>
-		
 
-			<form method="post">
+
+			<form method="post" class="pager">
 				 <input type="button" onclick="history.back();" value="Annuler" class="btn btn-default">
 
 				 <input type="submit" name="delete" value="Oui, je veux supprimer cet utilisateur" class="btn btn-success">
