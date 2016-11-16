@@ -4,12 +4,12 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Editer les coordonées et le slider</title>
+	<title>Editer les coordonnées et le slider</title>
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <body>
 
-<h1 class="text-center text-info"> Editer le slider et les coordonées</h1>
+<h1 class="text-center text-info"> Editer le slider et les coordonnées</h1>
 
 	<!-- Formulaire permettant d'éditer le header -->
 	<div class="col-sm-6 col-sm-push-3">
