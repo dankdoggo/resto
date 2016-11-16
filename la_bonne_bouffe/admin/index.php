@@ -11,6 +11,7 @@
 
 	<!-- Formulaire de connexion -->
 	<div class="col-sm-6 col-sm-push-3">
+		<h1 class="text-center text-info">Se connecter</h1>
 		<form method="post">
 			<label for="username">Nom d'utilisateur</label><br>
 			<input type="text" name="username" id="username" class="form-control">
